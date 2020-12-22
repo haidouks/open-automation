@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T10:02:14.115Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="vEGTPVngBPxISOcrz0qJ" version="14.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-22T10:05:59.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="g9iYOa531ZuyTK6gHtBj" version="14.1.1" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="General View">
     <mxGraphModel dx="1298" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,8 +131,16 @@
       <root>
         <mxCell id="ZwGuDi0SlZMXhdxnu4sK-0" />
         <mxCell id="ZwGuDi0SlZMXhdxnu4sK-1" parent="ZwGuDi0SlZMXhdxnu4sK-0" />
+        <mxCell id="zZViMIi2V4s3SW9321Hg-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="ZwGuDi0SlZMXhdxnu4sK-1" source="ZwGuDi0SlZMXhdxnu4sK-2" target="JcJ4VcD4oqyEej1WG8dv-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZViMIi2V4s3SW9321Hg-1" value="Open request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="zZViMIi2V4s3SW9321Hg-0">
+          <mxGeometry x="-0.5148" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZwGuDi0SlZMXhdxnu4sK-2" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="ZwGuDi0SlZMXhdxnu4sK-1">
-          <mxGeometry x="140" y="240" width="480" height="510" as="geometry" />
+          <mxGeometry x="170" y="300" width="440" height="430" as="geometry" />
         </mxCell>
         <mxCell id="ZwGuDi0SlZMXhdxnu4sK-5" value="&lt;div&gt;{&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;template&quot;: &quot;cloud/automation/virtualization/newVM&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;description&quot; : &quot;New VM requests for project xyz&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;data&quot;: {&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&quot;vms&quot;:[{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;namingConv&quot;:&quot;trcmysql*&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;count&quot; : 3,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;properties&quot;:{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;memory&quot;:&quot;4Gi&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;cpu&quot;:&quot;500m&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;disks&quot;:&quot;...&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;}&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;}]&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="ZwGuDi0SlZMXhdxnu4sK-1">
           <mxGeometry x="190" y="400" width="400" height="210" as="geometry" />
@@ -144,13 +152,16 @@
           <mxGeometry x="505" y="655" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZwGuDi0SlZMXhdxnu4sK-8" value="New AUTOMAT Request&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Comic Sans MS;fontSize=17;" vertex="1" parent="ZwGuDi0SlZMXhdxnu4sK-1">
-          <mxGeometry x="190" y="300" width="270" height="20" as="geometry" />
+          <mxGeometry x="190" y="320" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZwGuDi0SlZMXhdxnu4sK-9" value="Configuration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="ZwGuDi0SlZMXhdxnu4sK-1">
           <mxGeometry x="190" y="370" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PmuIRMevVkbDDUf2z2Sh-0" value="Configuration basically requires three main keys;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;template:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;SCM repo address for automation template&lt;br&gt;&lt;/li&gt;&lt;li&gt;https://scm.turkcell/&amp;lt;group&amp;gt;/&amp;lt;subgroup&amp;gt;/&amp;lt;context&amp;gt;/&amp;lt;&amp;lt;template&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;description:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Purpose of this AUTOMAT request&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;data:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Required data for template&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;labelBackgroundColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=12;align=left;position2=0.51;size=30;position=0.42;direction=south;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=10;" vertex="1" parent="ZwGuDi0SlZMXhdxnu4sK-1">
-          <mxGeometry x="600" y="360" width="470" height="200" as="geometry" />
+          <mxGeometry x="600" y="290" width="470" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="JcJ4VcD4oqyEej1WG8dv-0" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.azure.script_file;rounded=1;labelBackgroundColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="ZwGuDi0SlZMXhdxnu4sK-1">
+          <mxGeometry x="880" y="525" width="47" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
