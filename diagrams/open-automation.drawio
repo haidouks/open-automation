@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T21:29:07.872Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="SBaVkK-VN5r42beTz7CR" version="14.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-27T21:42:58.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="HCdpHDEfijwRDcWxLNSe" version="14.1.2" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="General View">
     <mxGraphModel dx="1298" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -517,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Operations - v2" id="vFsOOrgWTL_6G7dxdxGd">
-    <mxGraphModel dx="2148" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2998" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="RmDCiTtL2EFHG52xUFNk-0" />
         <mxCell id="RmDCiTtL2EFHG52xUFNk-1" parent="RmDCiTtL2EFHG52xUFNk-0" />
@@ -528,7 +528,7 @@
           <mxGeometry x="-165" y="-170" width="390" height="220" as="geometry" />
         </mxCell>
         <mxCell id="RmDCiTtL2EFHG52xUFNk-4" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=#ffffff;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=12;align=center;sketch=1;" vertex="1" parent="RmDCiTtL2EFHG52xUFNk-1">
-          <mxGeometry x="-190" y="140" width="640" height="420" as="geometry" />
+          <mxGeometry x="-180" y="180" width="650" height="340" as="geometry" />
         </mxCell>
         <mxCell id="RmDCiTtL2EFHG52xUFNk-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands-2/424/141_Git_logo_logos-128.png;shadow=1;fillColor=#000000;gradientColor=none;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;align=left;labelBorderColor=none;imageBorder=#000000;strokeWidth=2;imageBackground=#ffffff;rounded=1;sketch=1;" vertex="1" parent="RmDCiTtL2EFHG52xUFNk-1">
           <mxGeometry x="-240" y="-180" width="50" height="50" as="geometry" />
@@ -561,7 +561,7 @@
           <mxGeometry x="315" y="-105" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RmDCiTtL2EFHG52xUFNk-15" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Automata K8s&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=12;verticalAlign=top;sketch=1;" vertex="1" parent="RmDCiTtL2EFHG52xUFNk-1">
-          <mxGeometry x="-10" y="250" width="310" height="200" as="geometry" />
+          <mxGeometry x="-10" y="270" width="310" height="180" as="geometry" />
         </mxCell>
         <mxCell id="RmDCiTtL2EFHG52xUFNk-19" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;shadow=0;fontFamily=Comic Sans MS;fontSize=12;sketch=0;" vertex="1" parent="RmDCiTtL2EFHG52xUFNk-1">
           <mxGeometry x="10" y="310" width="50" height="48" as="geometry" />
@@ -587,7 +587,7 @@
         <mxCell id="RmDCiTtL2EFHG52xUFNk-26" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;shadow=0;fontFamily=Comic Sans MS;fontSize=12;sketch=0;" vertex="1" parent="RmDCiTtL2EFHG52xUFNk-1">
           <mxGeometry x="220" y="370" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RmDCiTtL2EFHG52xUFNk-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=12;sketch=1;curved=1;" edge="1" parent="RmDCiTtL2EFHG52xUFNk-1" source="RmDCiTtL2EFHG52xUFNk-38" target="RmDCiTtL2EFHG52xUFNk-4">
+        <mxCell id="RmDCiTtL2EFHG52xUFNk-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=12;curved=1;sketch=1;" edge="1" parent="RmDCiTtL2EFHG52xUFNk-1" source="RmDCiTtL2EFHG52xUFNk-38" target="RmDCiTtL2EFHG52xUFNk-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RmDCiTtL2EFHG52xUFNk-37" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;sketch=1;" vertex="1" connectable="0" parent="RmDCiTtL2EFHG52xUFNk-36">
@@ -601,8 +601,14 @@
         <mxCell id="RmDCiTtL2EFHG52xUFNk-39" value="Template - Pipeline" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;align=center;sketch=1;" vertex="1" parent="RmDCiTtL2EFHG52xUFNk-1">
           <mxGeometry x="315" y="-20" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RmDCiTtL2EFHG52xUFNk-40" value="&lt;div&gt;apiVersion: &quot;crds.turkcell.com.tr/alphaV1&quot;&lt;/div&gt;&lt;div&gt;kind: &quot;automata&quot;&lt;/div&gt;&lt;div&gt;metadata :&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; name: &quot;projectx-frontend-vms&quot;,&lt;/div&gt;&lt;div&gt;spec:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&amp;nbsp; template: &quot;cloud/automation/virtualization/newVM&quot;&lt;br&gt;&amp;nbsp; data:&lt;br&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;vms:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - &amp;nbsp;namingConv&quot;:&quot;trcmysql*&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;location&quot;: &quot;gebze&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;count&quot; : 3,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;properties:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; memory: &quot;4Gi&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; cpu: &quot;500m&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; disks:&quot;...&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;sketch=1;fontFamily=Comic Sans MS;spacing=5;" vertex="1" parent="RmDCiTtL2EFHG52xUFNk-1">
-          <mxGeometry x="-675" y="40" width="320" height="230" as="geometry" />
+        <mxCell id="Ivdw8eBgXWsqEF0uvxV6-2" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;" edge="1" parent="RmDCiTtL2EFHG52xUFNk-1" source="RmDCiTtL2EFHG52xUFNk-40" target="RmDCiTtL2EFHG52xUFNk-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RmDCiTtL2EFHG52xUFNk-40" value="&lt;div&gt;apiVersion: &quot;crds.turkcell.com.tr/alphaV1&quot;&lt;/div&gt;&lt;div&gt;kind: &quot;automata&quot;&lt;/div&gt;&lt;div&gt;metadata :&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; name: &quot;projectx-frontend-vms&quot;,&lt;/div&gt;&lt;div&gt;spec:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&amp;nbsp; template: &quot;cloud/automation/virtualization/newVM&quot;&lt;br&gt;&amp;nbsp; data:&lt;br&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;vms:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - &amp;nbsp;namingConv&quot;:&quot;trcmysql*&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;location&quot;: &quot;gebze&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;count&quot; : 3,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;properties:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; memory: &quot;4Gi&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; cpu: &quot;500m&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; disks:&quot;...&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Comic Sans MS;spacing=5;sketch=1;" vertex="1" parent="RmDCiTtL2EFHG52xUFNk-1">
+          <mxGeometry x="-930" y="235" width="320" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivdw8eBgXWsqEF0uvxV6-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;shadow=0;labelBackgroundColor=none;textOpacity=50;labelBorderColor=none;gradientDirection=east;fillStyle=zigzag;" vertex="1" parent="RmDCiTtL2EFHG52xUFNk-1">
+          <mxGeometry x="370" y="-98" width="80" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
